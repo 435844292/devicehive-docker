@@ -2,6 +2,7 @@
 
 * k8s: add parameters for log level configuration in Java Server services
 * k8s: add deployment for DeviceHive MQTT broker
+* k8s: add common nodeSelector value for all DeviceHive services
 
 ## 3.4.5.1 / 2018-03-26
 
